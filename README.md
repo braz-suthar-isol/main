@@ -1,2 +1,2 @@
 # main
-# Braz Suthar :boy-laptop:
+# Braz Suthar :laptop:
